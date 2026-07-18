@@ -6,9 +6,9 @@
 
 I design and ship production-ready web applications and APIs for startups, SaaS companies, and agencies — from initial architecture to deployment. My focus is clean code, reliable systems, and shipping features that actually move the business forward.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hasibulhasan-two.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasibulhasan2001)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasibulh798@gmail.com)
 
 </div>
 
@@ -57,9 +57,7 @@ I'm actively deepening my expertise in backend and infrastructure engineering:
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **Project Name One** | A brief, results-oriented description of the problem this project solves and who it's for. | React · Node.js · PostgreSQL | [GitHub](#) · [Live Demo](#) |
-| **Project Name Two** | A brief, results-oriented description of the problem this project solves and who it's for. | Next.js · Go · MongoDB | [GitHub](#) · [Live Demo](#) |
-| **Project Name Three** | A brief, results-oriented description of the problem this project solves and who it's for. | TypeScript · Express · Prisma | [GitHub](#) · [Live Demo](#) |
+| **Project Name One** | A world-class, highly interactive food delivery frontend. Designed for speed, aesthetics, and a seamless user journey from discovery to delivery. | TypeScript · Express · Prisma | [GitHub](https://github.com/hasibulh798/foodhub-frontend) · [Live Demo](https://foodhub-frontend-1q87.vercel.app/) |
 
 ---
 
@@ -67,12 +65,12 @@ I'm actively deepening my expertise in backend and infrastructure engineering:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasibulh798&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulh798&layout=compact&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=hasibulh798&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasibulh798&hide_border=true)
 
 </div>
 
@@ -108,10 +106,10 @@ Every project starts with understanding the actual business problem before a sin
 
 ## Contact
 
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
-- **Email:** your-email@example.com
+- **GitHub:** [github.com/hasibulh798](https://github.com/hasibulh798)
+- **LinkedIn:** [linkedin.com/in/hasibulhasan2001](https://linkedin.com/in/hasibulhasan2001)
+- **Portfolio:** [https://hasibulhasan-two.vercel.app/](https://hasibulhasan-two.vercel.app/)
+- **Email:** hasibulh798@gmail.com
 
 ---
 
